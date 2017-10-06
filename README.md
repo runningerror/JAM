@@ -1,2 +1,2 @@
 # JAM
-Repo to manage the development of a short RPG Maker game for https://itch.io/jam/igmc2017
+Repo um ein kleines RPG Maker Spiel für den Indie Game Maker Contest zu erstellen https://itch.io/jam/igmc2017
